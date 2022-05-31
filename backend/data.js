@@ -27,7 +27,7 @@ const data = {
       description: 'high quality product',
     },
     {
-     //_id: '3',
+    
       name: 'Nike Slim Pant',
       slug: 'nike-slim-pant',
       category: 'Pants',
@@ -40,7 +40,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      //_id: '4',
+      
       name: 'Adidas Fit Pant',
       slug: 'adidas-fit-pant',
       category: 'Pants',
